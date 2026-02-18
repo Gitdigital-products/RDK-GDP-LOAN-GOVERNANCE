@@ -1,3 +1,31 @@
+# RDK-GDP-LOAN-GOVERNANCE  
+## Founder Loan Governance System  
+### Powered by Richard’s Credit Authority
+
+---
+
+## 🧱 BADGE WALL — LOAN GOVERNANCE
+
+![Executed Instrument](https://img.shields.io/badge/Status-Executed-black)
+![Governance Workflow](https://img.shields.io/badge/Governance-Active-blue)
+![Credit Authority](https://img.shields.io/badge/Authority-Richard's_Credit_Authority-purple)
+![JSON Schema](https://img.shields.io/badge/Schema-Validated-green)
+![QR Codes](https://img.shields.io/badge/Audit-QR--Coded-orange)
+![DocuSign](https://img.shields.io/badge/Execution-DocuSign-yellow)
+![Ledger](https://img.shields.io/badge/Ledger-Integrated-brown)
+![Compliance](https://img.shields.io/badge/Compliance-Courtroom--Grade-red)
+
+---
+
+This repository contains the complete, institutional-grade governance system for the
+GitDigital Founder Loan executed on February 1, 2026.
+
+All documents, workflows, schemas, and ledger integrations in this repository are
+validated and enforced by **Richard’s Credit Authority**, implemented through the
+GitDigital Credit Authority GitHub App (Badge Authority + Document Authority).
+
+(…rest of README unchanged…)
+
 # RDK-GDP-LOAN-GOVWRANCE
 Founders loan me governed system
 `markdown
